@@ -4,4 +4,4 @@ I am very new to this but i would like to take a go at it, but i need help, A LO
 There are a lot of features that i would like to add to the game but i can only find so many working tutorials and not all desired features are featured in a tutorial that i can find.
 
 
-I think im doing this wrong...Github i mean.. is this even what this si for?
+I think im doing this wrong...Github i mean.. is this even what this is for?
