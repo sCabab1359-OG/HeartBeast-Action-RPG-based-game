@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/RainStorm.wav-61dbb7b1f6504830b839c790f20ef781.sample"
+
+[deps]
+
+source_file="res://Added Features/Rain Storm/RainStorm Resource Files/RainStorm.wav"
+dest_files=[ "res://.import/RainStorm.wav-61dbb7b1f6504830b839c790f20ef781.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0
